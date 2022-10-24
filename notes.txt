@@ -1,0 +1,3 @@
+C - trop strict - problème ok
+B et E - confusion
+test des autres lettres reste encore à faire
